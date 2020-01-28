@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "dependencies": {
+
+  },
+  "version": "1.0.0",
+  "bin": {
+    "run_me_app": "./bin/run_me_2"
+  }
+}

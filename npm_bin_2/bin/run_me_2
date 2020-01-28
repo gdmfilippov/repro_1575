@@ -1,0 +1,2 @@
+#!node
+require("fs").writeFileSync(process.argv[2], "Test_2");
