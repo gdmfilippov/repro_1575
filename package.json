@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "test_ok": "bazel clean && bazel test ...",
+    "test_fail": "bazel clean && bazel test --spawn_strategy local ..."
+  }
+}
